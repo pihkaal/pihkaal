@@ -1,0 +1,11 @@
+{
+  "files": ["README.md", "pubkey.asc"],
+  "projects": ["me", "tlock"],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/pihkaal",
+      "icon": "Github"
+    }
+  ]
+}
