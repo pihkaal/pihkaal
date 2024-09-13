@@ -1,6 +1,6 @@
 {
   "files": ["README.md", "pubkey.asc"],
-  "projects": ["me", "tlock", "api"],
+  "projects": ["me", "tlock", "api", "wov-tapo", "wov-auth"],
   "links": [
     {
       "name": "github",
