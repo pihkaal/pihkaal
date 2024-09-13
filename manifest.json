@@ -1,6 +1,6 @@
 {
   "files": ["README.md", "pubkey.asc"],
-  "projects": ["me", "tlock"],
+  "projects": ["me", "tlock", "api"],
   "links": [
     {
       "name": "github",
