@@ -6,6 +6,16 @@
       "name": "github",
       "url": "https://github.com/pihkaal",
       "icon": "Github"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/stevancorre",
+      "icon": "LinkedIn"
+    },
+    {
+      "name": "codingame",
+      "url": "https://www.codingame.com/profile/8e981b7d0de24ebee6116517eaba96682890054",
+      "icon": "CodinGame"
     }
   ]
 }
